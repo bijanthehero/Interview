@@ -1,7 +1,7 @@
 # Java Interview
 ## Simple Math Function
 ### What It Does:
-Returns a list of operators (+,-,*,/) that can successfully calculate two variables to equal the value of a third variable. If more than one operator is successful the output is concatenated with commas, but if none of the operators are successful the word "None" is returned.
+Returns a list of operators (+,-,*,/) that can successfully calculate two given variables to equal the value of a third given variable. If more than one operator is successful the output is concatenated with commas, but if none of the operators are successful the word "None" is returned.
 
 ### Original Problem:
 > Write a function that takes three Integer numbers Number1, Number2, and Number3, and
