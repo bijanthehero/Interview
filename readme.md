@@ -2,6 +2,7 @@
 ## Simple Math Function
 Determines what operation of two variables will equal the value of a third variable 
 
+Original Problem:
 > Write a function that takes three Integer numbers Number1, Number2, and Number3, and
 determines if there is a mathematical operation that will make Number1 (operation) Number2
 equal to Number3. If one or more of the 4 common mathematical operations (+,-,*,/) can
