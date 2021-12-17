@@ -9,7 +9,7 @@ public class OperationProblem {
 		
 	}
 	
-	static String mathFunction(int a, int b, int c) {
+	public static String mathFunction(int a, int b, int c) {
 		
 		String op = "None", res = "";
 		
