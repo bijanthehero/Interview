@@ -1,9 +1,10 @@
+//First attempt
 
 public class OneTwoThree {
 
 	public static void main(String[] args) {
 		
-		String res = mathFunction(4,2,2);
+		String res = mathFunction(5,2,3);
 		System.out.println(res);
 		
 	}
