@@ -15,5 +15,3 @@ public String mathFunction(3,-3,-9) returns "*",
 public String mathFunction(1,2,-1) returns "-",
 public String mathFunction(3,3,1) returns "/",
 public String mathFunction(7,1,11) returns "None".
-
-### JUnit (Extra Credit)
