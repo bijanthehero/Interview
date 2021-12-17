@@ -4,7 +4,7 @@ public class OneTwoThree {
 
 	public static void main(String[] args) {
 		
-		String res = mathFunction(5,2,3);
+		String res = mathFunction(2,2,4);
 		System.out.println(res);
 		
 	}
